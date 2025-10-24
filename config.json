@@ -13,15 +13,15 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "heymamun12@gmail.com",
+    "PASSWORD": "mamun143#@",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
-    "PREFIX": "/",
+    "BOTNAME": "pookie 🎀🙂",
+    "PREFIX": "*",
     "ADMINBOT": [
-        "100000478146113",
-        "61576520552554",
-        "61550035211214"
+        "61580322062833",
+        "61582341275575",
+        "61582335153066"
     ],
     "NDH": [
         "100000478146113"
@@ -90,7 +90,7 @@
         "log": true,
         "out": "",
         "kickAll": "",
-        "delThread": ""
+        "delThread": "1506639113693707"
     },
     "weather": {
         "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
